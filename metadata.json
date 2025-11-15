@@ -1,0 +1,5 @@
+{
+  "name": "AI Presentation Generator",
+  "description": "Upload DOCX and XLSX files to automatically generate an engaging PowerPoint presentation. The app analyzes content, performs online research if requested, visualizes data with charts, and adds AI-generated images.",
+  "requestFramePermissions": []
+}
